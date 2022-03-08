@@ -484,3 +484,14 @@ p{
 #scrollup.scrollActive{
     display: block;
 }
+.imgggg{
+    width: 60% !important;
+    margin:0 auto ;
+    height: 350px !important;
+}
+
+@media (max-width:600px) {
+    .imgggg{
+        width: 90% !important;
+    }
+}
